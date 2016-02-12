@@ -12,7 +12,8 @@
     The absense of the license of a project implies that default copyright laws applys. This means that the project owner retains all rights to source code and that nobody else may reproduce, distribute, or create derivative works from the work.
 
 4. Read the Failure to follow the Open System Model Section of [Why the Web beat Gopher](http://ils.unc.edu/callee/gopherpaper.htm#explain) 
-    - Do you agree with this claim? write two to five sentences.
+
+I agree with the author of this article. Personally I believe that the main reason as to why Gopher failed to beat the web was because the web has much better infrastructure. The technology that Gopher used would be unable to support the web traffic that exists today.
 
 5.  Android uses the [Apache license 2.0 and it's kernel uses GPL v2](https://en.wikipedia.org/wiki/Android_(operating_system)), [Linux uses tge  GPL v2](https://en.wikipedia.org/wiki/Linux ) license, 
 Microsoft [.NET Core uses MIT license]( https://github.com/dotnet/coreclr ), SailfishOS is [not open source]( https://en.wikipedia.org/wiki/Sailfish_OS ).  
