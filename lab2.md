@@ -46,8 +46,7 @@ Microsoft [.NET Core uses MIT license]( https://github.com/dotnet/coreclr ), Sai
 
 10. Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose. 
 
-I am still searching a project to work on.
-
+I am still searching a project to work on. I would  preferably do a light-weight or smaller project using C++ or JAVA instead of web-based projects.
 
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
