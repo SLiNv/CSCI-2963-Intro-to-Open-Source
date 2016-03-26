@@ -1,0 +1,2 @@
+/home/victor/lab5-cmake/step2/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/victor/lab5-cmake/step2/CMakeFiles/Tutorial.dir

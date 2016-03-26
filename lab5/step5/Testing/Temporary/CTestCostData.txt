@@ -1,0 +1,10 @@
+TutorialRuns 2 0.00212598
+TutorialUsage 2 0.00107646
+TutorialComp4 2 0.0037545
+TutorialComp9 2 0.00299144
+TutorialComp5 2 0.00138092
+TutorialComp7 2 0.00129402
+TutorialComp25 2 0.00271952
+TutorialComp-25 2 0.00287008
+TutorialComp0.0001 2 0.00694442
+---
