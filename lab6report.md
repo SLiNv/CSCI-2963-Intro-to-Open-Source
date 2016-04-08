@@ -85,4 +85,4 @@ Leader: Severin Ibarluzea
 <br>
 
 ###Part 2
-[Part2 click here](lba6/part2)
+[Part2 click here](https://github.com/SLiNv/CSCI-2963-Intro-to-Open-Source/tree/master/lab6/part2)
